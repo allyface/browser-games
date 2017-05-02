@@ -1,0 +1,15 @@
+#game-board {
+  background: beige;
+  height: 450px;
+  width: 450px;
+  margin-top: 10px;
+}
+
+.square {
+  border: 2px solid;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  font-size: 72px;
+  padding-top: 12px;
+}
