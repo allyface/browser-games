@@ -1,0 +1,20 @@
+#game-board {
+  height: 300px;
+  width: 300px;
+}
+
+.square {
+  border: 2px solid;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  font-size: 72px;
+}
+
+p {
+  text-align: right;
+}
+
+.container {
+  width: 300px;
+}

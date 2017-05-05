@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="js/ticTacToe.js"></script>
+    <link rel='stylesheet' type='text/css' href='css/ticTacToe.css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+  <body>
+    <div id='header'>
+      <button onclick='reset()'>reset</button>
+      <p id='message'>X goes first!</p>
+    </div>
+    <div id='game-board' class='container'>
+      <div id='row-1' class='row'>
+        <div id='sq-1' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+        <div id='sq-2' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+        <div id='sq-3' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+      </div>
+      <div id='row-2' class='row'>
+        <div id='sq-4' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+        <div id='sq-5' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+        <div id='sq-6' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+      </div>
+      <div id='row-3' class='row'>
+        <div id='sq-7' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+        <div id='sq-8' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+        <div id='sq-9' class='col-md-4 square' onclick='playerMove(this.id)'></div>
+      </div>
+    </div>
+  </body>
+</html>
