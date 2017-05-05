@@ -58,16 +58,16 @@ Your work will be mainly in deciding how to replicate that formal logic and user
 #### General
 
 - [x] Artifact produced is a fork of the [browser-games][browser-games] repo.
-- [ ] Variables, functions, files, etc. have appropriate and meaningful names.
-- [ ] HTML, CSS, and JS files are well formatted with proper spacing and indentation.
-- [ ] All major features are added via pull requests with a clear description and concise commit messages.
+- [x] Variables, functions, files, etc. have appropriate and meaningful names.
+- [x] HTML, CSS, and JS files are well formatted with proper spacing and indentation.
+- [x] All major features are added via pull requests with a clear description and concise commit messages.
 - [ ] Every pull request has been reviewed by at least one other person.
 - [x] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 #### Tic-Tac-Toe
 
 - [x] Tic-Tac-Toe game can be found at `public/ticTacToe.html`
-- [ ] Tic-Tac-Toe game is playable by two people
+- [x] Tic-Tac-Toe game is playable by two people
 - [x] Tic-Tac-Toe game page is linked from `public/index.html`
 
 #### Simon
