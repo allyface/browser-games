@@ -66,9 +66,9 @@ Your work will be mainly in deciding how to replicate that formal logic and user
 
 #### Tic-Tac-Toe
 
-- [ ] Tic-Tac-Toe game can be found at `public/ticTacToe.html`
+- [x] Tic-Tac-Toe game can be found at `public/ticTacToe.html`
 - [ ] Tic-Tac-Toe game is playable by two people
-- [ ] Tic-Tac-Toe game page is linked from `public/index.html`
+- [x] Tic-Tac-Toe game page is linked from `public/index.html`
 
 #### Simon
 
